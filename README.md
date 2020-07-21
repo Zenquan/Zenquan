@@ -2,6 +2,7 @@
 
 
 ### Zenquan
-- :a front-end developer
-- :focus on front-end engineering
-- :to be a tool man!
+
+- :orange_book: a front-end developer
+- :hammer: focus on front-end engineering
+- :ram: to be a tool man!
