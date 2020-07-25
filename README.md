@@ -5,4 +5,8 @@
 
 - :orange_book: a front-end developer
 - :hammer: focus on front-end engineering
-- :ram: to be a tool man!
+- :ram: to be a tool man
+- [quickgitclone](https://github.com/Zenquan/quickgitclone)(100%迭代中)
+- [babel-import-plugin](https://github.com/Zenquan/babel-import-plugin)(100%迭代中)
+- [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mysql)(30%)
+- [interesting-lab](https://github.com/XC-Team/interesting-lab)
