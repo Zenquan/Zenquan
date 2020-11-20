@@ -6,7 +6,7 @@
 - :hammer: focus on front-end engineering
 - :ram: to be a tool man
 - [quickgitclone](https://github.com/Zenquan/quickgitclone)：快速git clone 插件
-- [babel-import-plugin](https://github.com/Zenquan/babel-import-plugin)：组件按需加载babel插件
+- [babel-import-plugin](https://github.com/Zenquan/babel-import-plugin)：库按需加载babel插件
 - [zen-tools](https://github.com/Zenquan/zen-tools)：工具库
 - [psion-react-hooks](https://github.com/Zenquan/psion-react-hooks)：react常用hooks
 - [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎koa模板服务
