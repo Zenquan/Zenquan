@@ -8,7 +8,7 @@
 - [jrfe-utils](https://github.com/Zenquan/jrfe-utils)：团队工具库
 - [babel-plugin-import](https://github.com/Zenquan/babel-plugin-import)：库按需加载babel插件
 - [babel-plugin-clear-log](https://github.com/Zenquan/babel-plugin-clear-log)：打包至生产时去除console.log的babel插件
-- [zen-tools](https://github.com/Zenquan/zen-tools)：个人工具库
+- [tools](https://github.com/Zenquan/tools)：个人工具库
 - [plugins](https://github.com/Zenquan/plugins)：原生插件
 - [rhooks](https://github.com/Zenquan/rhooks)：react常用hooks
 - [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎koa服务模板
