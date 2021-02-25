@@ -4,7 +4,7 @@
 
 - :orange_book: a front-end developer
 - :hammer: focus on front-end engineering
-- [githubHepler](https://github.com/Zenquan/githubHepler)：辅助github，适用于Chromium内核浏览器的浏览器插件
+- [githubHelper](https://github.com/Zenquan/githubHelper)：辅助github，适用于Chromium内核浏览器的浏览器插件
 - [jrfe-utils](https://github.com/Zenquan/jrfe-utils)：团队工具库
 - [babel-plugin-import](https://github.com/Zenquan/babel-plugin-import)：库按需加载babel插件
 - [babel-plugin-clear-log](https://github.com/Zenquan/babel-plugin-clear-log)：打包至生产时去除console.log的babel插件
