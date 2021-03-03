@@ -4,6 +4,7 @@
 
 - :orange_book: a front-end developer
 - :hammer: focus on front-end engineering
+- [browserHelper](https://github.com/Zenquan/browserHelper)：辅助工作的浏览器插件助手
 - [githubHelper](https://github.com/Zenquan/githubHelper)：辅助github，适用于Chromium内核浏览器的浏览器插件
 - [jrfe-utils](https://github.com/Zenquan/jrfe-utils)：团队工具库
 - [babel-plugin-import](https://github.com/Zenquan/babel-plugin-import)：库按需加载babel插件
@@ -12,6 +13,7 @@
 - [plugins](https://github.com/Zenquan/plugins)：原生插件
 - [rhooks](https://github.com/Zenquan/rhooks)：react常用hooks
 - [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎koa服务模板
+- [splider](https://github.com/Zenquan/splider)(koa+mysql)：爬虫应用
 - [interesting-lab](https://github.com/XC-Team/interesting-lab)
 
 
