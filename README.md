@@ -1,3 +1,5 @@
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=zenquan&show_icons=true&icon_color=38ADD8&text_color=ffffff&bg_color=000000&hide_title=true" />
+       
 ### Hey 👋, I'm [Zenquan](https://juejin.cn/user/1257497031883134)!
 
 - :orange_book: a front-end developer
@@ -13,9 +15,6 @@
 - [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎koa服务模板
 - [splider](https://github.com/Zenquan/splider)(koa+mysql)：爬虫应用
 - [interesting-lab](https://github.com/XC-Team/interesting-lab)
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenquan&layout=compact" />
-  <img style="margin: 20px;"
-       src="https://github-readme-stats.vercel.app/api?username=zenquan&show_icons=true&icon_color=38ADD8&text_color=ffffff&bg_color=000000&hide_title=true" />
-</div>
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenquan&layout=compact" />
+ 
