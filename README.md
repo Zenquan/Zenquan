@@ -12,7 +12,7 @@
 - [tools](https://github.com/Zenquan/tools)：个人工具库
 - [plugins](https://github.com/Zenquan/plugins)：原生插件
 - [rhooks](https://github.com/Zenquan/rhooks)：react常用hooks
-- [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎koa服务模板
+- [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎api
 - [splider](https://github.com/Zenquan/splider)(koa+mysql)：爬虫应用
 - [interesting-lab](https://github.com/XC-Team/interesting-lab)
  
