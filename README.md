@@ -8,7 +8,7 @@
 - [babel-plugin-import](https://github.com/Zenquan/babel-plugin-import)：库按需加载babel插件
 - [babel-plugin-clear-log](https://github.com/Zenquan/babel-plugin-clear-log)：打包至生产时去除console.log的babel插件
 - [react-admin-template](https://github.com/Zenquan/rhooks)：react后台管理系统模板
-- [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎api
+- [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎部分api
 - [splider](https://github.com/Zenquan/splider)(koa+mysql)：爬虫应用
  
 <div>
