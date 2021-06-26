@@ -11,6 +11,7 @@
 - [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎api
 - [splider](https://github.com/Zenquan/splider)(koa+mysql)：爬虫应用
  
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=zenquan&show_icons=true&icon_color=38ADD8&text_color=ffffff&bg_color=000000&hide_title=true" />
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenquan&layout=compact" />
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=zenquan&show_icons=true&icon_color=38ADD8&text_color=ffffff&bg_color=000000&hide_title=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenquan&layout=compact" />
+</div>
