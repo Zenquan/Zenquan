@@ -2,8 +2,8 @@
        
 ### Hey 👋, I'm [Zenquan](https://juejin.cn/user/1257497031883134)!
 
-- :orange_book: a front-end developer
-- :hammer: focus on front-end engineering
+> I am a front-end developer, focusing on front-end engineering and media development.
+
 - [browserHelper](https://github.com/Zenquan/browserHelper)：辅助工作的浏览器插件助手
 - [githubHelper](https://github.com/Zenquan/githubHelper)：辅助github，适用于Chromium内核浏览器的浏览器插件
 - [jrfe-utils](https://github.com/Zenquan/jrfe-utils)：团队工具库
@@ -12,6 +12,6 @@
 - [react-admin-template](https://github.com/Zenquan/rhooks)：react后台管理系统模板
 - [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎api
 - [splider](https://github.com/Zenquan/splider)(koa+mysql)：爬虫应用
-- 
+ 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenquan&layout=compact" />
  
