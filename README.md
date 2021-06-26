@@ -9,12 +9,9 @@
 - [jrfe-utils](https://github.com/Zenquan/jrfe-utils)：团队工具库
 - [babel-plugin-import](https://github.com/Zenquan/babel-plugin-import)：库按需加载babel插件
 - [babel-plugin-clear-log](https://github.com/Zenquan/babel-plugin-clear-log)：打包至生产时去除console.log的babel插件
-- [tools](https://github.com/Zenquan/tools)：个人工具库
-- [plugins](https://github.com/Zenquan/plugins)：原生插件
-- [rhooks](https://github.com/Zenquan/rhooks)：react常用hooks
+- [react-admin-template](https://github.com/Zenquan/rhooks)：react后台管理系统模板
 - [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎api
 - [splider](https://github.com/Zenquan/splider)(koa+mysql)：爬虫应用
-- [interesting-lab](https://github.com/XC-Team/interesting-lab)
- 
+- 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenquan&layout=compact" />
  
