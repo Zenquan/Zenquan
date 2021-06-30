@@ -4,7 +4,7 @@
 
 - [jrfe-utils](https://github.com/Zenquan/jrfe-utils)：团队工具库
 - [happy-ui](https://github.com/Zenquan/happy-ui)：一个vue3组件库
-- [react-admin-template](https://github.com/Zenquan/rhooks)：react后台管理系统模板
+- [react-admin-template](https://github.com/Zenquan/react-admin-template)：react后台管理系统模板
 - [babel-plugin-import](https://github.com/Zenquan/babel-plugin-import)：库按需加载babel插件
 - [babel-plugin-clear-log](https://github.com/Zenquan/babel-plugin-clear-log)：打包至生产时去除console.log的babel插件
 - [browserHelper](https://github.com/Zenquan/browserHelper)：辅助工作的浏览器插件助手
