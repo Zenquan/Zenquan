@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Zenquan](https://zenquan.vercel.app)!
 
->  I'm a front-end developer, focusing on front-end engineering and media development.
+>  I'm a front-end developer, focusing on front-end engineering and media development. I have a dream to become an independent developer
 
 - [jrfe-utils](https://github.com/Zenquan/jrfe-utils)：团队工具库
 - [happy-ui](https://github.com/Zenquan/happy-ui)：一个vue3组件库
