@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Zenquan](https://zenquan.vercel.app)!
 
->  I'm a front-end developer, focusing on front-end engineering and media development. I have a dream to become an independent developer!
+>  I'm a front-end developer, focusing on front-end engineering. I have a dream to become an independent developer!
 
 - [jrfe-utils](https://github.com/Zenquan/jrfe-utils)：团队工具库
 - [happy-ui](https://github.com/Zenquan/happy-ui)：一个vue3组件库
@@ -13,6 +13,6 @@
 - [spider](https://github.com/Zenquan/spider)(koa+mysql)：爬虫应用
  
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenquan&layout=compact" />
-   <img src="https://github-readme-stats.vercel.app/api?username=zenquan&show_icons=true&icon_color=38ADD8&text_color=ffffff&bg_color=000000&hide_title=true" />
+   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenquan&layout=compact" />-->
+   <!--<img src="https://github-readme-stats.vercel.app/api?username=zenquan&show_icons=true&icon_color=38ADD8&text_color=ffffff&bg_color=000000&hide_title=true" />-->
 </div>
