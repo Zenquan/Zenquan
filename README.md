@@ -2,6 +2,10 @@
 
 >  I'm a front-end developer, focusing on front-end engineering.
 
+[![Site](https://img.shields.io/badge/Site-1C90FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://zenquan.vercel.app/)
+[![Zhihu](https://img.shields.io/badge/-Zhihu-136BFB?style=flat-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/zhenquancai)
+[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:jomsoucan@gmail.com)
+
 ### Programming Languages
 ![html5](https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![css3](https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge)
