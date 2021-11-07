@@ -16,6 +16,7 @@
 ### Frameworks & libraries
 ![webpack](https://img.shields.io/badge/webpack-%231e72b3.svg?logo=webpack&logoColor=white&style=for-the-badge)
 ![babel](https://img.shields.io/badge/babel-%23323330.svg?logo=babel&logoColor=%23f9dc3e&style=for-the-badge)
+![vite](https://img.shields.io/badge/vite-%23323330.svg?logo=vite&logoColor=%A651FD&style=for-the-badge)
 ![react](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=for-the-badge)
 ![next](https://img.shields.io/badge/next-%2320232a.svg?logo=next.js&logoColor=%2361dafb&style=for-the-badge)
 ![tailwind](https://img.shields.io/badge/tailwindcss-%2320232a.svg?logo=tailwindcss&logoColor=%2361dafb&style=for-the-badge)
