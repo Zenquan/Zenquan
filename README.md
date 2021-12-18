@@ -4,7 +4,8 @@
 
 [![Site](https://img.shields.io/badge/Site-1C90FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://zenquan.vercel.app/)
 [![博客园](https://img.shields.io/badge/-博客园-136BFB?style=flat-square&logo=Cnblogs&logoColor=white)](https://www.cnblogs.com/Jomsou/)
-[![知乎](https://img.shields.io/badge/-Zhihu-136BFB?style=flat-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/zhenquancai)
+[![知乎](https://img.shields.io/badge/-知乎-136BFB?style=flat-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/zhenquancai)
+[![掘金](https://img.shields.io/badge/-掘金-136BFB?style=flat-square&logo=Juejin&logoColor=white)](https://juejin.cn/user/1257497031883134/posts)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:jomsoucan@gmail.com)
 
 <!-- ### Programming Languages
