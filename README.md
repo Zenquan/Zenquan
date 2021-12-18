@@ -3,7 +3,7 @@
 >  I'm a front-end developer, focusing on front-end engineering.
 
 [![Site](https://img.shields.io/badge/Site-1C90FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://zenquan.vercel.app/)
-[![博客园](https://img.shields.io/badge/-博客园-136BFB?style=flat-square&logo=Cnblogs&logoColor=white)](https://www.cnblogs.com/Jomsou/https://www.cnblogs.com/Jomsou/)
+[![博客园](https://img.shields.io/badge/-博客园-136BFB?style=flat-square&logo=Cnblogs&logoColor=white)](https://www.cnblogs.com/Jomsou/)
 [![知乎](https://img.shields.io/badge/-Zhihu-136BFB?style=flat-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/zhenquancai)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:jomsoucan@gmail.com)
 
