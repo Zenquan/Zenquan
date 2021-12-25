@@ -2,7 +2,7 @@
 <!-- 
 >  I'm a front-end developer, focusing on front-end engineering. -->
 
-[![Site](https://img.shields.io/badge/Site-1C90FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://zenquan.vercel.app/)
+[![Site](https://img.shields.io/badge/Site-1C90FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.joyenjoy.tech)
 [![博客园](https://img.shields.io/badge/-博客园-136BFB?style=flat-square&logo=Cnblogs&logoColor=white)](https://www.cnblogs.com/Jomsou/)
 [![知乎](https://img.shields.io/badge/-知乎-136BFB?style=flat-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/zhenquancai)
 [![掘金](https://img.shields.io/badge/-掘金-136BFB?style=flat-square&logo=Juejin&logoColor=white)](https://juejin.cn/user/1257497031883134/posts)
