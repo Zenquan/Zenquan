@@ -2,11 +2,34 @@
 <!-- 
 >  I'm a front-end developer, focusing on front-end engineering. -->
 
-[![Site](https://img.shields.io/badge/Site-1C90FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.joyenjoy.tech)
+<p align="center">
+  <samp>
+    <a href="https://www.joyenjoy.tech">
+       <img src="https://img.shields.io/badge/主页-FEC008?style=flat-square&logo=firefox-browser&logoColor=white" />
+     </a> 
+     <a href="https://blog.joyenjoy.tech">
+       <img src="https://img.shields.io/badge/博客-48475E?style=flat-square&logo=notion&logoColor=white" />
+    </a> 
+    <a href="https://www.cnblogs.com/Jomsou">
+       <img src="https://img.shields.io/badge/-博客园-2090FE?style=flat-square&logo=Cnblogs&logoColor=white" />
+     </a> 
+    <a href="https://www.zhihu.com/people/zhenquancai">
+       <img src="https://img.shields.io/badge/-知乎-136BFB?style=flat-square&logo=Zhihu&logoColor=white" />
+    </a> 
+    <a href="https://juejin.cn/user/1257497031883134/posts">
+       <img src="https://img.shields.io/badge/-掘金-1371EE?style=flat-square&logo=Juejin&logoColor=white" />
+     </a> 
+    <a href="mailto:jomsoucan@gmail.com">
+       <img src="https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white" />
+    </a> 
+  </samp>
+</p>
+
+<!-- [![Site](https://img.shields.io/badge/Site-1C90FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.joyenjoy.tech)
 [![博客园](https://img.shields.io/badge/-博客园-136BFB?style=flat-square&logo=Cnblogs&logoColor=white)](https://www.cnblogs.com/Jomsou/)
 [![知乎](https://img.shields.io/badge/-知乎-136BFB?style=flat-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/zhenquancai)
 [![掘金](https://img.shields.io/badge/-掘金-136BFB?style=flat-square&logo=Juejin&logoColor=white)](https://juejin.cn/user/1257497031883134/posts)
-[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:jomsoucan@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:jomsoucan@gmail.com) -->
 
 <!-- ### Programming Languages
 ![html5](https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge)
