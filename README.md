@@ -11,13 +11,13 @@
        <img src="https://img.shields.io/badge/博客-48475E?style=flat-square&logo=notion&logoColor=white" />
     </a> 
     <a href="https://www.cnblogs.com/Jomsou">
-       <img src="https://img.shields.io/badge/-博客园-2090FE?style=flat-square&logo=Cnblogs&logoColor=white" />
+       <img src="https://img.shields.io/badge/-博客园-2090FE?style=flat-square&logo=blogger&logoColor=white" />
      </a> 
     <a href="https://www.zhihu.com/people/zhenquancai">
        <img src="https://img.shields.io/badge/-知乎-136BFB?style=flat-square&logo=Zhihu&logoColor=white" />
     </a> 
     <a href="https://juejin.cn/user/1257497031883134/posts">
-       <img src="https://img.shields.io/badge/-掘金-1371EE?style=flat-square&logo=Juejin&logoColor=white" />
+       <img src="https://img.shields.io/badge/-掘金-1371EE?style=flat-square&logo=&logoColor=white" />
      </a> 
     <a href="mailto:jomsoucan@gmail.com">
        <img src="https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white" />
