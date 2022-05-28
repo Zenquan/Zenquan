@@ -68,4 +68,14 @@
 </div> -->
 
 <!--START_SECTION:waka-->
+
+```text
+Vue.js       12 hrs 45 mins  ████████▓░░░░░░░░░░░░░░░░   34.93 %
+JavaScript   8 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   23.76 %
+SCSS         6 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+TypeScript   4 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+JSON         1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+HTML         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+```
+
 <!--END_SECTION:waka-->
