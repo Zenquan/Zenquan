@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at every 12AM UTC
-    - cron: "55 09 * * *"
+    - cron: "56 09 * * *"
 
 jobs:
   update-readme:
