@@ -1,8 +1,8 @@
-<!-- ## Hey 👋, I'm Zenquan -->
-<!-- 
->  I'm a front-end developer, focusing on front-end engineering. -->
+## Hey 👋, I'm Zenquan
 
-<p align="center">
+>  I'm a front-end developer, focusing on front-end engineering.
+
+<!-- <p align="center">
   <samp>
     <a href="https://www.joyenjoy.tech">
        <img src="https://img.shields.io/badge/主页-FEC008?style=flat-square&logo=firefox-browser&logoColor=white" />
@@ -23,15 +23,16 @@
        <img src="https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white" />
     </a> 
   </samp>
-</p>
+</p> -->
 
-<!-- [![Site](https://img.shields.io/badge/Site-1C90FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.joyenjoy.tech)
+[![Site](https://img.shields.io/badge/主页-FEC008?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.joyenjoy.tech)
+[![博客](https://img.shields.io/badge/博客-48475E?style=flat-square&logo=notion&logoColor=white)](https://blog.joyenjoy.tech)
 [![博客园](https://img.shields.io/badge/-博客园-136BFB?style=flat-square&logo=Cnblogs&logoColor=white)](https://www.cnblogs.com/Jomsou/)
 [![知乎](https://img.shields.io/badge/-知乎-136BFB?style=flat-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/zhenquancai)
 [![掘金](https://img.shields.io/badge/-掘金-136BFB?style=flat-square&logo=Juejin&logoColor=white)](https://juejin.cn/user/1257497031883134/posts)
-[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:jomsoucan@gmail.com) -->
+[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:jomsoucan@gmail.com)
 
-<!-- ### Programming Languages
+### Programming Languages
 ![html5](https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![css3](https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
@@ -50,17 +51,15 @@
 ![nuxt.js](https://img.shields.io/badge/nuxt.js-%2300c58e.svg?logo=nuxt.js&logoColor=white&style=for-the-badge)
 
 ### IDEs & Editors
-![visual-studio-code](https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge) -->
+![visual-studio-code](https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-<!-- ### Projects
+### Projects
 
-- [jrfe-utils](https://github.com/Zenquan/jrfe-utils)：团队工具库
-- [react-admin-template](https://github.com/Zenquan/react-admin-template)：react后台管理系统模板
-- [babel-plugin-import](https://github.com/Zenquan/babel-plugin-import)：库按需加载babel插件
-- [babel-plugin-clear-log](https://github.com/Zenquan/babel-plugin-clear-log)：打包至生产时去除console.log的babel插件
-- [githubHelper](https://github.com/Zenquan/githubHelper)：辅助github，适用于Chromium内核浏览器的浏览器插件
-- [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：仿知乎部分api
-- [spider](https://github.com/Zenquan/spider)(koa+mysql)：爬虫应用 -->
+- [libpack](https://github.com/Zenquan/libpack)：A pack tempalte for js or ui library
+- [react-admin-template](https://github.com/Zenquan/react-admin-template)：A react admin template
+- [githubHelper](https://github.com/Zenquan/githubHelper)：A plug-in that optimizes github clone/download, including some self-built open source Git Clone/SSH, Release, Raw, Code(ZIP) mirror addresses that can be downloaded at high speed
+- [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：A restful api using nodejs
+- [spider](https://github.com/Zenquan/spider)(koa+mysql)：A spider application using nodejs
  
 <!--  <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenquan&layout=compact" />
