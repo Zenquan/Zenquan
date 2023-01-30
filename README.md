@@ -57,6 +57,7 @@
 
 - [libpack](https://github.com/Zenquan/libpack)：A pack tempalte for js or ui library
 - [react-admin-template](https://github.com/Zenquan/react-admin-template)：A react admin template
+- [react-ts-webpack5-boilerplate](https://github.com/Zenquan/react-ts-webpack5-boilerplate)：Use react17, webpack5, axios, typescript to build templates, high performance, good compatibility, priority support for mobile terminals
 - [githubHelper](https://github.com/Zenquan/githubHelper)：A plug-in that optimizes github clone/download, including some self-built open source Git Clone/SSH, Release, Raw, Code(ZIP) mirror addresses that can be downloaded at high speed
 - [zhihu-api](https://github.com/Zenquan/zhihu-api)(koa+mongodb)：A restful api using nodejs
 - [spider](https://github.com/Zenquan/spider)(koa+mysql)：A spider application using nodejs
